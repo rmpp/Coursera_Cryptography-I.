@@ -2,4 +2,4 @@
 Coursera programming assignments,Stanford Cryptography I.
 
 
-week2 uses: https://www.dlitz.net/software/pycrypto/
+week2,week3 uses: https://www.dlitz.net/software/pycrypto/
